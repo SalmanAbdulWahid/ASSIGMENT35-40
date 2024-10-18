@@ -8,6 +8,8 @@ function Current(){
 }
 Current()
         //  Q NO 02
-        funchion hour(){
-            
+        funchion greetuser(firstname,lastname) {
+              greetuser=firstname+lastname;
+                
+
         }
