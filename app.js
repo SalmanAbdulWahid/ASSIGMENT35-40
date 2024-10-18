@@ -8,8 +8,11 @@ function Current(){
 }
 Current()
         //  Q NO 02
-        funchion greetuser(firstname,lastname) {
-              greetuser=firstname+lastname;
+        function greetuser(firstname,lastname) {
+              var fullname=firstname+lastname;
+              console.log("hello"+fullname+"!")
                 
 
         }
+greetuser("SALMAN","ABDUL WAHID")
+        Q NO 03 
